@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DW Multi Barcode</string>
+    <string name="maxBarcodes">Maximum number of barcodes is ignored when Instant Reporting is enabled</string>
+    <string name="numBarcodes">Specify the maximum number of barcodes to scan during a trigger press</string>
+</resources>
